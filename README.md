@@ -1,6 +1,12 @@
 # Lang-app
 Config a multi lang in your app
-<h4>How to use it</h4>
+
+## How it work?
+Once the request to access a page is made, if the user didn't select any language, a default one is selected(french actually). Considering the user selected a language before, next requests will just reuse his choice which is even saved in the session.
+
+**All is contextual, meaning the visitor will remain on the same page with a different language.**
+
+## How to use it?
 
 ### lang/en.php
 ```php
