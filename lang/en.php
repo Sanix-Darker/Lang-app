@@ -7,6 +7,7 @@
 
 	define('SELECT_LANGUE_FR', 'French');
 	define('SELECT_LANGUE_EN', 'English');
+	define('SELECT_LANGUE_SP', 'Spanish');
 
 	define('LIBELLE_PAGE','Sanix darker is doing a LANGUAGE TUTO');
 
