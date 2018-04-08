@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b1239f-d0aa-44d6-8d87-10b8aa6907f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang/sp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/config_lang.php" afterPath="$PROJECT_DIR$/lang/config_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/en.php" afterPath="$PROJECT_DIR$/lang/en.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/fr.php" afterPath="$PROJECT_DIR$/lang/fr.php" />
-    </list>
+    <list default="true" id="17b1239f-d0aa-44d6-8d87-10b8aa6907f4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -91,12 +84,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522586186261</updated>
       <workItem from="1522586188279" duration="30000" />
-      <workItem from="1522595995310" duration="14000" />
+      <workItem from="1522595995310" duration="577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44000" />
+    <option name="totallyTimeSpent" value="607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
