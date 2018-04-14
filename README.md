@@ -7,7 +7,7 @@ Once the request to access a page is made, if the user didn't select any languag
 **All is contextual, meaning the visitor will remain on the same page with a different language.**
 ## What do you want to choose?
 
-<table>
+<table style="width: 100%;">
   <tr>
     <td>
       <a href="https://github.com/Sanix-Darker/Lang-app/JS">
@@ -23,5 +23,3 @@ Once the request to access a page is made, if the user didn't select any languag
     </td>
   </tr>
 </table>
-
-<img src="img/capture.png" >
