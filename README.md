@@ -11,14 +11,14 @@ Once the request to access a page is made, if the user didn't select any languag
   <tr>
     <td style="width: 450px;">
       <center>
-        <a href="https://github.com/Sanix-Darker/Lang-app/JS">
+        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/JS">
           <img src="img/js.PNG">
         </a>
       </center>
     </td>
     <td style="width: 450px;">
       <center>
-        <a href="https://github.com/Sanix-Darker/Lang-app/PHP">
+        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/PHP">
           <img src="img/php.PNG">
         </a>
       </center>
@@ -37,3 +37,5 @@ Once the request to access a page is made, if the user didn't select any languag
     </tr>
   </tr>
 </table>
+
+<img src="js/img/capture.png" >
