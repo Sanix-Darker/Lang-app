@@ -38,4 +38,4 @@ Once the request to access a page is made, if the user didn't select any languag
   </tr>
 </table>
 
-<img src="js/img/capture.png" >
+<img src="https://raw.githubusercontent.com/Sanix-Darker/Lang-app/master/JS/img/capture.png" >
