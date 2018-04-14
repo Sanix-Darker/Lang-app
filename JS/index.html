@@ -1,0 +1,36 @@
+ 
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/flottant.css">
+		<title>Test</title>
+	</head>
+	<body>
+		<center>
+			<div class="container">
+				<a href="https://github.com/Sanix-Darker">
+					<img src="https://avatars1.githubusercontent.com/u/22576758?s=400&v=4" style="border-radius: 100%;width:100px;"><br>
+					Sanix Darker Github
+				</a>
+				<div id="menu">
+					<ul>
+						<li translate="MENU_PREMIER"></li>
+						<li translate="MENU_DEUXIEME"> Second </li>
+						<li translate="MENU_TROISIEME"> Third </li>
+					</ul>
+					<select onchange="document.location='?lang='+this.value" style="padding: 6px;" id="valueOflang">
+						<option selected="" disabled="">Choose language</option>
+						<option value="fr" translate="SELECT_LANGUE_FR">French</option>
+						<option value="en" translate="SELECT_LANGUE_EN">English</option>
+						<option value="sp" translate="SELECT_LANGUE_SP">Spanish</option>
+					</select>
+				</div>
+				<h2 translate="LIBELLE_PAGE"> Sanix is doing a language tuto</h2>
+			</div>
+		</center>
+
+		<script type="text/javascript" src="js/config_lang.js"></script>
+		<script type="text/javascript" src="js/sanix_lang_app.js"></script>
+	</body>
+</html>
+

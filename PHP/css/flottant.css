@@ -1,0 +1,23 @@
+#menu{padding:4px;width:100%;text-align: center;}
+#menu ul li{display:inline-block;list-style:none;cursor:pointer;padding:3px!important;background:black;color:white;width:150px;border:1px solid white;}
+#menu ul li:hover{background:white;color:black;border-bottom:1px solid black;}
+#menu ul li ul{visibility:hidden;position:absolute;}
+#menu ul li:hover ul{visibility:visible;}
+#menu ul li:hover ul li{display:block;cursor:pointer;}
+.container{
+	margin-top: 135px;
+	max-width: 550px;
+	text-align: center;
+	padding: 10px;
+	padding-top: 25px;
+	background: white;
+	transition: all 0.4s;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.45);
+}
+.container:hover{
+	transition: all 0.4s;
+	box-shadow: 0 7px 10px rgba(0,0,0,0.45);
+}
+body{
+	background: rgba(230,230,230,0.5);
+}
