@@ -1,4 +1,4 @@
-# Lang-app With **ONLY NATIVE** [Javascript] OR [PHP]
+# Lang-app Translation "ONLY NATIVE"
 Config a multi lang in your app both with PHP or JS
 
 ## How it work?
