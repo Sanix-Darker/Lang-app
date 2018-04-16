@@ -1,4 +1,4 @@
-# Lang-app With **ONLY** [PHP]
+# Lang-app translation With **PHP**
 Config a multi lang in your app
 
 ## How it work?

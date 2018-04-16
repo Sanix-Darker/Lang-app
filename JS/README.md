@@ -1,4 +1,4 @@
-# Lang-app With **ONLY NATIVE** [Javascript]
+# Lang-app translation Javascript
 Config a multi lang in your app <a href="https://sanix-darker.github.io/Lang-app/JS/">DEMO HERE</a>
 
 ## How it work?
