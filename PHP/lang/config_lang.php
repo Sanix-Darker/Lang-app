@@ -4,7 +4,10 @@
 	 * Author Sanix darker
 	 * Configuration language
 	 */
-	session_start();
+	// Check if a session has been set before or not
+	if(!isset($_SESSION)){
+		session_start();
+	}
 
 	// default lang
 	$default_language = 'fr';
