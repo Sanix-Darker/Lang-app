@@ -1,5 +1,5 @@
-# Lang-app Translation "ONLY NATIVE"
-Config a multi lang in your app both with PHP or JS
+# Lang-app Translation "ONLY FROM SCRATCH"
+Config a multi lang in your app both with PHP, JS or Ruby. [Any LIB, FRAMEWORK, etc... needed]
 
 ## How it work?
 Once the request to access a page is made, if the user didn't select any language, a default one is selected(french actually). Considering the user selected a language before, next requests will just reuse his choice which is even saved in the session.
