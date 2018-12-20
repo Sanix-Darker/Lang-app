@@ -51,3 +51,12 @@ Once the request to access a page is made, if the user didn't select any languag
 </table>
 
 <img src="https://raw.githubusercontent.com/Sanix-Darker/Lang-app/master/JS/img/capture.png" >
+
+## Author
+
+- [Sanix-darker](https://github.com/sanix-darker)
+
+## LICENSE
+
+[MIT License](https://github.com/Sanix-Darker/Lang-app/blob/master/LICENSE)
+
