@@ -89,3 +89,11 @@ Once the request to access a page is made, if the user didn't select any languag
   // And all is done!
 ```
 <img src="img/capture.png" >
+
+## Author
+
+- [Sanix-darker](https://github.com/sanix-darker)
+
+## LICENSE
+
+[MIT License](https://github.com/Sanix-Darker/Lang-app/blob/master/LICENSE)
