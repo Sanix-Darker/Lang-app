@@ -11,21 +11,21 @@ Once the request to access a page is made, if the user didn't select any languag
   <tr>
     <td style="width: 450px;">
       <center>
-        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/JS">
+        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/examples/JS">
           <img src="img/js.PNG">
         </a>
       </center>
     </td>
     <td style="width: 450px;">
       <center>
-        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/PHP">
+        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/examples/PHP">
           <img src="img/php.PNG">
         </a>
       </center>
     </td>
     <td style="width: 450px;">
       <center>
-        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/RUBY">
+        <a href="https://github.com/Sanix-Darker/Lang-app/tree/master/examples/RUBY">
           <img src="img/ruby.PNG">
         </a>
       </center>
