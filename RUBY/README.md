@@ -12,7 +12,6 @@ Once the request to access a page is made, if the user didn't select any languag
 
   @_lang = "en"
 
-
   if @_lang == "en"
 
      MENU_PREMIER = En::MENU_PREMIER

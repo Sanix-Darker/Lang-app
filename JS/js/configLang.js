@@ -3,12 +3,12 @@
  * Author: Sanix darker
  */
 // this parameter represent the default language you want
-var value_of_lang_you_want = "en";
+var langSet = "en";
 // this is the array of your languages
-var array_lang = [ "fr","en","sp"];
+var langArray = [ "fr","en","sp"];
 
 // this is the arrays of your differents values
-var array_lang_value = [
+var langKeyValue = [
 	// fr : French
 	{
 		"MENU_PREMIER" : "Premier",
