@@ -17,8 +17,6 @@ Once the request to access a page is made, if the user didn't select any languag
 - [PHP module](https://github.com/Sanix-Darker/Lang-app/tree/master/PHP)
 - [RUBY module](https://github.com/Sanix-Darker/Lang-app/tree/master/RUBY)
 
-<img src="https://raw.githubusercontent.com/Sanix-Darker/Lang-app/master/JS/img/capture.png" >
-
 ## Author
 
 - [Sanix-darker](https://github.com/sanix-darker)
